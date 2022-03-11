@@ -1,6 +1,6 @@
 # Front-end-interview-summary
 
-Week1：
+## Week1：
 
 - 原型链
   - 原型、原型链概念
