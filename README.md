@@ -15,7 +15,7 @@ Week1：
   - 闭包的应用
   - 闭包的缺点
   - 为什么会设计闭包
- - this
+- this
   - this 的概念
   - 关于 this 指向的题（我会找些题）
   - call apply bind 区别，使用场景
